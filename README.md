@@ -12,6 +12,4 @@ Ambitious Web Developer, UI/UX designer, Photo & Video editor..
 ### ✨ Familiar with 
 ![skills](https://skillicons.dev/icons?i=figma,wordpress,php,postgres,ps,pr,git,github&theme=dark&perline=4)
 
-### 📖 Currently learning
-![skills](https://skillicons.dev/icons?i=nodejs,django,mongodb&theme=dark)
 
