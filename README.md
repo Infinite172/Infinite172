@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @Infinite172
-- 👀 I’m interested in CODING
-- 🌱 I’m currently learning JavaScript
-<!---
-Infinite172/Infinite172 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Hi 👋, I'm Pranish Karki</h1>
+
+Ambitious Web Developer, UI/UX designer, Photo & Video editor..
+
+- 🎓 Currently studying Bachelors of Science in Computer Science & Information Technology.
+- 📫 Reach me via karkipranish172@gmail.com
+
+
+### ⚡ Languages & tools 
+![skills](https://skillicons.dev/icons?i=ts,js,html,css,sass,bootstrap,react,redux,nextjs,tailwind,firebase,git&theme=dark)
+
+### ✨ Familiar with 
+![skills](https://skillicons.dev/icons?i=figma,wordpress,php,postgres,ps,pr,git,github&theme=dark&perline=4)
+
+### 📖 Currently learning
+![skills](https://skillicons.dev/icons?i=nodejs,django,mongodb&theme=dark)
+
